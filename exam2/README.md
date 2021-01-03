@@ -85,7 +85,7 @@
     C. V<sub>0</sub>, V<sub>4</sub>, V<sub>1</sub>, V<sub>2</sub>, V<sub>5</sub>, V<sub>6</sub>, V<sub>7</sub>, V<sub>3</sub>  
     D. V<sub>0</sub>, V<sub>1</sub>, V<sub>4</sub>, V<sub>3</sub>, V<sub>6</sub>, V<sub>7</sub>, V<sub>2</sub>, V<sub>5</sub>
 
-11.   设有图的数据逻辑结构 `B=(K,R)` ，其中顶点集 `K={k1, k3, ..., k9}` ，有向边集 `R={<k1,k3>, <k1,k8>, <k2,k3>, <k2,k4>, <k2,k5>, <k3,k9>, <k5,k6>, <k8,k9>, <k9,k7>, <k4,k7>, <k4,k6>}` 。以下哪个选项不是对应DAG图的拓扑序列？  
+11.   设有图的数据逻辑结构 `B=(K,R)` ，其中顶点集 `K={k1, k2, ..., k9}` ，有向边集 `R={<k1,k3>, <k1,k8>, <k2,k3>, <k2,k4>, <k2,k5>, <k3,k9>, <k5,k6>, <k8,k9>, <k9,k7>, <k4,k7>, <k4,k6>}` 。以下哪个选项不是对应DAG图的拓扑序列？  
     A. `k1, k2, k3, k4, k5, k6, k8, k9, k7`  
     B. `k2, k5, k1, k4, k6, k8, k3, k9, k7`  
     C. `k2, k4, k5, k6, k7, k1, k3, k8, k9`  
