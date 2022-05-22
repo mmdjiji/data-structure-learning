@@ -12,7 +12,7 @@
 
 使用下面的命令行可将本项目clone至本地，便于离线学习及记录学习过程
 ```bash
-git clone https://gitee.com/mmdjiji/data-structure-learning
+git clone https://github.com/mmdjiji/data-structure-learning
 ```
 
 课程内容一共15周，每周的作业会在 `week*` 文件夹中给出，例如第1周的文件夹为 [week01](week01) 。
